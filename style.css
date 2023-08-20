@@ -1,0 +1,9 @@
+#display-text {
+  visibility: hidden;
+}
+#display-timer {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: white;
+}
